@@ -13,6 +13,12 @@ Commands and Tools to remember
 # to call the local interpreter 
 - python -m pip install <package>
 
+
+# installing from the requirements.txt file 
+- .\venv\Scripts\activate
+- pip install -r requirements.txt
+
+
 # convert ipynb to pdf
 - jupyter nbconvert --to pdf your_notebook.ipynb
 - python -m nbconvert --to pdf notebook.ipynb
