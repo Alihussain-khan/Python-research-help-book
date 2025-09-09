@@ -22,3 +22,8 @@ Commands and Tools to remember
 # convert ipynb to pdf
 - jupyter nbconvert --to pdf your_notebook.ipynb
 - python -m nbconvert --to pdf notebook.ipynb
+
+
+## for 3.11 
+- py -3.11 -m venv .venv
+- .\.venv\Scripts\Activate.ps1
